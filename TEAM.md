@@ -18,7 +18,7 @@
 
 - [Samsul Ma'arif](https://github.com/samsulmaarif) (Koordinator)
 - [Darian Rizaludin](https://github.com/darianrizaludin)
-- [Sabar Suwarsono](https://github.com/soewarsono)
+- [Sabar Suwarsono]- Malang (https://github.com/soewarsono)
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung)
 - [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys)
 - [Taufik Mulyana](https://github.com/nothinux)
