@@ -17,7 +17,6 @@
 ## Infrastruktur
 
 - [Darian Rizaludin](https://github.com/darianrizaludin) (Koordinator)
-- [Sabar Suwarsono](https://github.com/soewarsono)
 
 ## Pemaket
 - [Saprianto](https://github.com/antosamalona) (Koordinator)
@@ -32,6 +31,7 @@
 ## Jaminan Kualitas
 - [M. Dzulkifli](https://github.com/mdzulkifli) (Koordinator)
 - [Sofyan Sugianto](https://github.com/artemtech)
+- [Sabar Suwarsono](https://github.com/soewarsono)
 
 ## Kesenian [BlankOn v](https://github.com/blankon/blankon-v-kesenian)
 
